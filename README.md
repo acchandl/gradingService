@@ -1,12 +1,14 @@
 # gradingService
 
-Prerequisites
-Install Node and npm
+## Prerequisites
 
-Install and run
-Clone repo
-Run 'npm install'
-Run 'node src/server'
+* Install Node and npm
+
+## Install and run
+
+* Clone repo
+* Run 'npm install'
+* Run 'node src/server'
 
 sqlite3 db
 
